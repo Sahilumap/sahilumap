@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h1 align="center">Hi 👋, I'm sahil umap</h1>
+<h3 align="center">A interested in cryptography, AIML,mathematics lover</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+I’m **sahil umap**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
 
 - 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
 - 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
@@ -99,15 +99,6 @@ I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Techni
 2. **IOT BASED NOVEL SCENNER**
 
 ---
-
-## 📖 Author of Books
-
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
 
 
 ## 📊 GitHub Stats
