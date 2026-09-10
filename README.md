@@ -20,7 +20,7 @@
 
 I’m **Sahil Mahendra Umap**, a Third-year Computer Engineering student with a deep fascination for the intersection of advanced mathematics and digital security. I thrive on solving complex problems and am currently maintaining a strong academic track record (SGPAs: 9.6, 9.4, 9.2 & 9.2).
 
-- 🎓 Currently pursuing **Computer Engineering** (2nd Year).
+- 🎓 Currently pursuing **Computer Engineering** (3nd Year).
 - 🛡️ Focus: **Cybersecurity & Cryptography** — exploring how mathematical rigor ensures data integrity.
 - 🚀 Aspiring to contribute to research organizations like **ISRO** or **DRDO** in secure communications.
 - 🛠️ Currently working on a **Smart Irrigation System** using Project Management methodologies like Kanban.
