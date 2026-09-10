@@ -11,14 +11,14 @@
   <a href="mailto:sahilumap311@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/sahil_umap_3414">
+  <a href="https://instagram.com/__sahil3414">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ## 💫 About Me
 
-I’m **Sahil Mahendra Umap**, a second-year Computer Engineering student with a deep fascination for the intersection of advanced mathematics and digital security. I thrive on solving complex problems and am currently maintaining a strong academic track record (SGPAs: 9.6, 9.4, 9.2).
+I’m **Sahil Mahendra Umap**, a Third-year Computer Engineering student with a deep fascination for the intersection of advanced mathematics and digital security. I thrive on solving complex problems and am currently maintaining a strong academic track record (SGPAs: 9.6, 9.4, 9.2 & 9.2).
 
 - 🎓 Currently pursuing **Computer Engineering** (2nd Year).
 - 🛡️ Focus: **Cybersecurity & Cryptography** — exploring how mathematical rigor ensures data integrity.
