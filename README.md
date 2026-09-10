@@ -44,22 +44,184 @@ I’m **Sahil Mahendra Umap**, a Third-year Computer Engineering student with a 
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br>
-  <img src="https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=checkpoint&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Cryptography-%23000000.svg?style=for-the-badge&logo=keepassxc&logoColor=white" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <br>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Mathematics-%23121011.svg?style=for-the-badge&logo=wolfram&logoColor=white" alt="Math" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<details>
+<summary>🐍 <b>Python</b></summary>
 
-<br>
+|                             | Information                                                                      |
+| --------------------------- | -------------------------------------------------------------------------------- |
+| 📅 **Created**              | 1991                                                                             |
+| 👨‍💻 **Founder / Creator** | Guido van Rossum                                                                 |
+| 🎯 **Type**                 | High-level, general-purpose programming language                                 |
+| 🚀 **Used For**             | AI/ML, automation, web development, data science, cybersecurity                  |
+| ⭐ **Strength**              | Simple and readable syntax                                                       |
+| 💡 **Unique Fact**          | Python was named after the British comedy group **Monty Python**, not the snake. |
+
+**Why it's popular:**
+Python lets developers write powerful programs with relatively little code and has one of the largest ecosystems of libraries and frameworks.
+
+</details>
+
+<details>
+<summary>🗄️ <b>SQL</b></summary>
+
+|                    | Information                                                               |
+| ------------------ | ------------------------------------------------------------------------- |
+| 📅 **Origin**      | 1970s                                                                     |
+| 👨‍💻 **Creators** | Donald D. Chamberlin & Raymond F. Boyce                                   |
+| 🏢 **Origin**      | IBM                                                                       |
+| 🎯 **Full Name**   | Structured Query Language                                                 |
+| 🚀 **Used For**    | Creating, querying and managing databases                                 |
+| ⭐ **Strength**     | Powerful data querying                                                    |
+| 💡 **Unique Fact** | SQL was originally called **SEQUEL** — Structured English Query Language. |
+
+**Why it's important:**
+Almost every major software system that stores structured data relies on database technologies where SQL plays a major role.
+
+</details>
+
+<details>
+<summary>⚙️ <b>Assembly</b></summary>
+
+|                    | Information                                                                       |
+| ------------------ | --------------------------------------------------------------------------------- |
+| 📅 **Origin**      | 1940s–1950s                                                                       |
+| 👨‍💻 **Creator**  | No single creator; developed alongside early computers                            |
+| 🎯 **Type**        | Low-level programming language                                                    |
+| 🧠 **Works With**  | CPU instructions, registers and memory                                            |
+| 🚀 **Used For**    | Embedded systems, operating systems, reverse engineering                          |
+| ⭐ **Strength**     | Extremely precise hardware control                                                |
+| 💡 **Unique Fact** | Assembly language is closely connected to a processor's specific instruction set. |
+
+**Why it's important:**
+Understanding Assembly gives programmers insight into what actually happens inside a CPU when a program executes.
+
+</details>
+
+<details>
+<summary>💻 <b>C++</b></summary>
+
+|                    | Information                                          |
+| ------------------ | ---------------------------------------------------- |
+| 📅 **Created**     | 1985                                                 |
+| 👨‍💻 **Creator**  | Bjarne Stroustrup                                    |
+| 🎯 **Origin**      | Developed as an extension of C                       |
+| 🚀 **Used For**    | Games, operating systems, browsers, embedded systems |
+| ⭐ **Strength**     | High performance + low-level control                 |
+| 💡 **Unique Fact** | The `++` in C++ comes from C's increment operator.   |
+
+**Why it's popular:**
+C++ provides both high-level programming features and detailed control over hardware and memory.
+
+</details>
+
+<details>
+<summary>🛡️ <b>Cybersecurity</b></summary>
+
+|                    | Information                                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| 📅 **Origin**      | Evolved with the development of computer networks                                                    |
+| 👨‍💻 **Founder**  | No single founder                                                                                    |
+| 🎯 **Purpose**     | Protect systems, networks and information                                                            |
+| 🔐 **Areas**       | Network security, application security, forensics, threat detection                                  |
+| ⭐ **Goal**         | Confidentiality, Integrity & Availability                                                            |
+| 💡 **Unique Fact** | Cybersecurity isn't only about stopping attacks — it also includes detection, response and recovery. |
+
+**Why it's important:**
+As more systems become connected to the internet, protecting digital infrastructure becomes increasingly critical.
+
+</details>
+
+<details>
+<summary>🔐 <b>Cryptography</b></summary>
+
+|                    | Information                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 📅 **Origin**      | Ancient civilizations                                                                                                     |
+| 👨‍💻 **Founder**  | No single founder                                                                                                         |
+| 🎯 **Purpose**     | Protect information using mathematics                                                                                     |
+| 🔑 **Types**       | Symmetric encryption, asymmetric encryption, hashing                                                                      |
+| ⭐ **Strength**     | Secure communication and data protection                                                                                  |
+| 💡 **Unique Fact** | Cryptography existed thousands of years before computers. The ancient **Caesar cipher** is one famous historical example. |
+
+**Why it's important:**
+Modern cryptography protects things such as passwords, digital signatures, secure communications and online transactions.
+
+</details>
+
+<details>
+<summary>🐧 <b>Linux</b></summary>
+
+|                    | Information                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 📅 **Created**     | 1991                                                                                                                                 |
+| 👨‍💻 **Creator**  | Linus Torvalds                                                                                                                       |
+| 🎯 **Type**        | Open-source Unix-like kernel                                                                                                         |
+| 🚀 **Used For**    | Servers, cloud computing, supercomputers, embedded systems                                                                           |
+| ⭐ **Strength**     | Open, customizable and powerful                                                                                                      |
+| 💡 **Unique Fact** | Linux is not technically an operating system by itself — **Linux is a kernel**. Many complete operating systems are built around it. |
+
+**Why it's important:**
+Linux is a major foundation of modern computing infrastructure, from servers to embedded devices.
+
+</details>
+
+<details>
+<summary>🤖 <b>AI / ML</b></summary>
+
+|                         | Information                                                                 |
+| ----------------------- | --------------------------------------------------------------------------- |
+| 📅 **AI Field Emerged** | 1950s                                                                       |
+| 👨‍💻 **Key Pioneer**   | John McCarthy                                                               |
+| 🎯 **AI**               | Artificial Intelligence                                                     |
+| 🧠 **ML**               | Machine Learning                                                            |
+| 🚀 **Used For**         | Computer vision, NLP, robotics, recommendations, prediction                 |
+| ⭐ **Strength**          | Learning patterns from data                                                 |
+| 💡 **Unique Fact**      | The term **"Artificial Intelligence"** was coined by John McCarthy in 1956. |
+
+**Why it's important:**
+Machine learning allows computers to find patterns in data and use those patterns to make predictions or decisions.
+
+</details>
+
+<details>
+<summary>🧮 <b>Mathematics</b></summary>
+
+|                    | Information                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------------------- |
+| 📅 **Origin**      | Ancient civilizations                                                                         |
+| 👨‍💻 **Founder**  | No single founder                                                                             |
+| 🎯 **Purpose**     | Study of numbers, structures, patterns, space and change                                      |
+| 🧩 **Areas**       | Algebra, calculus, geometry, statistics, probability, number theory                           |
+| ⭐ **Strength**     | Foundation of science and engineering                                                         |
+| 💡 **Unique Fact** | Modern cryptography, AI, computer graphics and many algorithms depend heavily on mathematics. |
+
+**Why it's important:**
+Mathematics provides the theoretical foundation behind much of computer science, cybersecurity and artificial intelligence.
+
+</details>
+
+<details>
+<summary>🔧 <b>Git</b></summary>
+
+|                    | Information                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------- |
+| 📅 **Created**     | 2005                                                                                      |
+| 👨‍💻 **Creator**  | Linus Torvalds                                                                            |
+| 🎯 **Type**        | Distributed Version Control System                                                        |
+| 🚀 **Used For**    | Tracking code changes and collaboration                                                   |
+| ⭐ **Strength**     | Branching, merging and distributed development                                            |
+| 💡 **Unique Fact** | Git was created by Linus Torvalds to help manage the development of the **Linux kernel**. |
+
+**Why it's important:**
+Git allows developers to experiment with code, work in parallel and safely keep track of the history of a project.
+
+</details>
+
+---
+
+<p align="center">
+  <i>💡 Every technology has a story — keep learning, keep building.</i>
+</p>
 
 ## 🚀 Projects in Progress
 
